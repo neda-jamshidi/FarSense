@@ -1,35 +1,36 @@
-FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language
+# FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language
 
-FarSense is a comprehensive benchmark and evaluation framework designed to assess commonsense reasoning capabilities in the Farsi (Persian) language. The project contributes to the development and evaluation of natural language processing (NLP) systems for low-resource languages, with a particular focus on commonsense knowledge and reasoning.
+FarSense is a comprehensive benchmark and evaluation framework designed to assess commonsense reasoning capabilities in the Farsi (Persian) language.
 
-This repository provides access to the dataset, software, and research resources associated with FarSense.
+The project aims to advance commonsense reasoning research in low-resource languages by providing resources for evaluating the understanding and reasoning capabilities of language models.
 
-📊 Dataset
+## 📊 Dataset
 
-The FarSense dataset supports the systematic evaluation of commonsense reasoning capabilities in Farsi language models.
+The FarSense dataset provides resources for evaluating commonsense knowledge and reasoning in Farsi.
 
-Dataset: Access the FarSense Dataset
+**Dataset:** [Access the FarSense Dataset](INSERT_DATASET_URL)
 
-💻 Software
+## 💻 Software
 
-The software resources associated with FarSense support reproducible evaluation and experimentation with commonsense reasoning models.
+The software associated with FarSense supports experimentation, evaluation, and reproducibility of commonsense reasoning research.
 
-Software: Access the FarSense Software
+**Software:** [Access the FarSense Software](INSERT_SOFTWARE_URL)
 
-📄 Publication
+## 📄 Publication
 
-FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language
+**FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language**
 
 Kamyar Zeinalipour, Neda Jamshidi, Seyedehbahareh Hejazi, Marco Maggini, Monica Bianchini, Simone Paoletti, and Marco Gori.
 
-Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2025), pp. 3529–3599.
+*Proceedings of AACL-IJCNLP 2025*, pp. 3529–3599.
 
-Paper: Read the Publication
+**Paper:** [Read the Paper](INSERT_PAPER_URL)
 
-📝 Citation
+## 📝 Citation
 
-If you use the FarSense dataset, software, or evaluation framework in your research, please cite our paper:
+If you use FarSense in your research, please cite our paper:
 
+```bibtex
 @inproceedings{zeinalipour2025farsense,
   title={FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language},
   author={Zeinalipour, Kamyar and Jamshidi, Neda and Hejazi, Seyedehbahareh and Maggini, Marco and Bianchini, Monica and Paoletti, Simone and Gori, Marco},
@@ -37,7 +38,10 @@ If you use the FarSense dataset, software, or evaluation framework in your resea
   pages={3529--3599},
   year={2025}
 }
+```
 
-📬 Contact
+## 📬 Contact
 
-For questions, suggestions, or research collaborations related to FarSense, please open an issue in this repository.
+For questions, suggestions, or collaborations, please open an issue in this repository.
+
+
