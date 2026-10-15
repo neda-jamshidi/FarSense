@@ -8,13 +8,10 @@ The project aims to advance commonsense reasoning research in low-resource langu
 https://github.com/neda-jamshidi/FarSense/blob/main/1170_FarSense_A_Comprehensive__Data%20(1).zip
 
 ## 💻 Software
-[Access the FarSense Software](./software/)
+https://github.com/neda-jamshidi/FarSense/blob/main/1170_FarSense_A_Comprehensive__Software%20(1).zip
 
 ## 📄 Paper
-[Read the FarSense Paper](./paper/FarSense.pdf)
-
-## 📄 Publication
-
+https://aclanthology.org/2025.ijcnlp-long.187/
 
 
 ## 📝 Citation
