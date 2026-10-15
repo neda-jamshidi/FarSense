@@ -5,7 +5,7 @@ FarSense is a comprehensive benchmark and evaluation framework designed to asses
 The project aims to advance commonsense reasoning research in low-resource languages by providing resources for evaluating the understanding and reasoning capabilities of language models.
 
 ## 📊 Dataset
-[Download the FarSense Dataset](./data/)
+https://github.com/neda-jamshidi/FarSense/blob/main/1170_FarSense_A_Comprehensive__Data%20(1).zip
 
 ## 💻 Software
 [Access the FarSense Software](./software/)
