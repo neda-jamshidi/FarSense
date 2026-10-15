@@ -30,6 +30,6 @@ If you use FarSense in your research, please cite our paper:
 
 ## 📬 Contact
 
-For questions, suggestions, or collaborations, please open an issue in this repository.
+neda.jamshidi@student.unisi.it
 
 
