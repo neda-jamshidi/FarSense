@@ -5,26 +5,17 @@ FarSense is a comprehensive benchmark and evaluation framework designed to asses
 The project aims to advance commonsense reasoning research in low-resource languages by providing resources for evaluating the understanding and reasoning capabilities of language models.
 
 ## 📊 Dataset
-
-The FarSense dataset provides resources for evaluating commonsense knowledge and reasoning in Farsi.
-
-**Dataset:** [Access the FarSense Dataset](INSERT_DATASET_URL)
+[Download the FarSense Dataset](./data/)
 
 ## 💻 Software
+[Access the FarSense Software](./software/)
 
-The software associated with FarSense supports experimentation, evaluation, and reproducibility of commonsense reasoning research.
-
-**Software:** [Access the FarSense Software](INSERT_SOFTWARE_URL)
+## 📄 Paper
+[Read the FarSense Paper](./paper/FarSense.pdf)
 
 ## 📄 Publication
 
-**FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language**
 
-Kamyar Zeinalipour, Neda Jamshidi, Seyedehbahareh Hejazi, Marco Maggini, Monica Bianchini, Simone Paoletti, and Marco Gori.
-
-*Proceedings of AACL-IJCNLP 2025*, pp. 3529–3599.
-
-**Paper:** [Read the Paper](INSERT_PAPER_URL)
 
 ## 📝 Citation
 
