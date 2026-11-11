@@ -1,0 +1,38 @@
+{
+  "model_name_or_path": "meta-llama/Llama-3.2-1B-Instruct",
+  "output_dir": "outputs/Llama-3.2-1B-Instruct",
+  "dataset_name": "data",
+  "splits": "train,test",
+  "dataset_text_field": "content",
+  "chat_template_format": "none",
+  "packing": true,
+  "max_seq_length": 2048,
+  "add_special_tokens": false,
+  "append_concat_token": false,
+
+  "use_peft_lora": true,
+  "lora_r": 128,
+  "lora_alpha": 256,
+  "lora_dropout": 0.1,
+  "lora_target_modules": "q_proj,k_proj,v_proj,o_proj,down_proj,up_proj,gate_proj,embed_tokens,lm_head",
+  "use_flash_attn": true,
+
+  "num_train_epochs": 3,
+  "per_device_train_batch_size": 4,
+  "per_device_eval_batch_size": 4,
+  "gradient_accumulation_steps": 2,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "lr_scheduler_type": "cosine",
+  "warmup_ratio": 0.0,
+  "max_grad_norm": 1.0,
+  "bf16": true,
+  "gradient_checkpointing": true,
+  "use_reentrant": false,
+
+  "eval_strategy": "epoch",
+  "save_strategy": "epoch",
+  "logging_steps": 5,
+  "seed": 100,
+  "report_to": "none"
+}

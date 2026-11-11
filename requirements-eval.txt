@@ -1,0 +1,11 @@
+# Scoring (evaluation/evaluate.py). hazm requires Python < 3.12.
+pandas
+numpy
+scikit-learn
+tqdm
+torch
+transformers
+nltk
+rouge-score
+bert-score
+hazm

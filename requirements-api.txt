@@ -1,0 +1,7 @@
+# API models: benchmark generation and evaluation of GPT-4o, Gemini, DeepSeek, Qwen, Mistral.
+pandas
+tqdm
+python-dotenv
+openai>=1.0
+google-genai>=1.0
+mistralai>=1.0

@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use FarSense, please cite the paper below."
+title: "FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language"
+repository-code: "https://github.com/KamyarZeinalipour/FarSense"
+license: Apache-2.0
+authors:
+  - family-names: Zeinalipour
+    given-names: Kamyar
+  - family-names: Jamshidi
+    given-names: Neda
+  - family-names: Hejazi
+    given-names: Seyedehbahareh
+  - family-names: Maggini
+    given-names: Marco
+  - family-names: Bianchini
+    given-names: Monica
+  - family-names: Paoletti
+    given-names: Simone
+  - family-names: Gori
+    given-names: Marco
+preferred-citation:
+  type: conference-paper
+  title: "FarSense: A Comprehensive Commonsense Benchmark and Evaluation Framework for the Farsi Language"
+  authors:
+    - family-names: Zeinalipour
+      given-names: Kamyar
+    - family-names: Jamshidi
+      given-names: Neda
+    - family-names: Hejazi
+      given-names: Seyedehbahareh
+    - family-names: Maggini
+      given-names: Marco
+    - family-names: Bianchini
+      given-names: Monica
+    - family-names: Paoletti
+      given-names: Simone
+    - family-names: Gori
+      given-names: Marco
+  collection-title: "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics"
+  publisher:
+    name: "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics"
+  conference:
+    name: "IJCNLP-AACL 2025"
+    city: Mumbai
+    country: IN
+  month: 12
+  year: 2025
+  start: 3529
+  end: 3599
+  doi: "10.18653/v1/2025.ijcnlp-long.187"
+  url: "https://aclanthology.org/2025.ijcnlp-long.187/"
