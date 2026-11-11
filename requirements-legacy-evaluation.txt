@@ -1,0 +1,13 @@
+# Extra dependencies for software/evaluation/eval3_original.py
+# The original script downloads pretrained metrics models, possibly large ones.
+bert-score
+hazm
+nltk
+numpy
+pandas
+rouge-score
+scikit-learn
+sentence-transformers
+torch
+tqdm
+transformers
